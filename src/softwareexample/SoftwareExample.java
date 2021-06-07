@@ -16,8 +16,9 @@ public class SoftwareExample {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        private int studentID; 
         System.out.println("HI");
+        //today is monday
     }
     
 }
